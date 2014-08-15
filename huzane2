@@ -1,0 +1,6 @@
+gem install mysql
+rails new "project"
+"open gem file in project folder with notepad++"
+gem "mysql"
+bundle update
+end
